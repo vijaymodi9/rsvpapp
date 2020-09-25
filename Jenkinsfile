@@ -24,7 +24,7 @@ spec:
       }
   }
 environment {
-    IMAGE_REPO = "vijaymodi9/Vijay@13ge"
+    IMAGE_REPO = "vijaymodi9/rsvp"
     // Instead of nkhare, use your git username
 }
 stages {
